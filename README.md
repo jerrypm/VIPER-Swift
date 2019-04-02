@@ -20,7 +20,7 @@ The screen must contain:
 Example gif with iPhone XS Xcode simulator and Slow Animations:
   
 <p align="center">
-  <img src="https://github.com/adalovelacecode/VIPER-Swift/blob/master/Readme_Images/gif-big.gif" width="234" height="500"/>
+  <img src="https://github.com/crabinvader/VIPER-Swift/blob/master/Readme_Images/gif-big.gif" width="234" height="500"/>
 </p>
   
 <br><br> 
@@ -38,7 +38,7 @@ The reason that this architecture has used is because it's an advance architectu
 The app uses VIPER in two scenes. The first one, is the main view WelcomeList and the second, the game run detail GameDetail.
 
 <p align="center">
-  <img src="https://github.com/adalovelacecode/VIPER-Swift/blob/master/Readme_Images/viper-arch-1.png" width="253" height="350"/>
+  <img src="https://github.com/crabinvader/VIPER-Swift/blob/master/Readme_Images/viper-arch-1.png" width="253" height="350"/>
 </p>
 
 <br><br> 
@@ -50,13 +50,13 @@ RxSwift is added to VIPER arch to improve the readability and maintainability of
 WelcomeList uses RxSwift to control the game list array updates and to show or hide the spinner loader when app calls the API services as well to control if the user have an internet connection.
 
 <p align="center">
-  <img src="https://github.com/adalovelacecode/VIPER-Swift/blob/master/Readme_Images/rxswift-1b.png" width="400" height="354"/>
+  <img src="https://github.com/crabinvader/VIPER-Swift/blob/master/Readme_Images/rxswift-1b.png" width="400" height="354"/>
 </p>
 
 GameDatil uses RxSwift to control the game object updates data and to show or hide the spinner loader when app calls the API services as well to control if the user have an internet connection. And one more thing, the video game run button are enabled or disabled with RxSwift depends if the object have or not a valid url.
 
 <p align="center">
-  <img src="https://github.com/adalovelacecode/VIPER-Swift/blob/master/Readme_Images/rxswift-2.png" width="400" height="228"/>
+  <img src="https://github.com/crabinvader/VIPER-Swift/blob/master/Readme_Images/rxswift-2.png" width="400" height="228"/>
 </p>
 
 <br><br> 
@@ -69,7 +69,7 @@ Classes:
 - [NoInternetAlert](speedrun/Workers/NoInternetAlert.swift): Custom view to control internet connection. With protocol/delegate patters to inform when the internet connection come back. This class presents it view using autolayout by code with the help of the SnapKit pod.<br>
 
 <p align="center">
-  <img src="https://github.com/adalovelacecode/VIPER-Swift/blob/master/Readme_Images/protocol-delegate.png" width="350" height="130"/>
+  <img src="https://github.com/crabinvader/VIPER-Swift/blob/master/Readme_Images/protocol-delegate.png" width="350" height="130"/>
 </p>
 
 - [Modal](speedrun/Workers/Modal.swift): Modal class base to improve present and dismiss nointernet alert or others.<br>
