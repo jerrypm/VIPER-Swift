@@ -1,0 +1,14 @@
+"gameList_title" = "Games";
+"noInternet" = "Internet connection fails";
+"error_title" = "Error";
+"error" = "An error has occurred";
+"ok" = "OK";
+"loading" = "Loading...";
+"retry" = "Retry";
+"player_name" = "Player:";
+"time_run" = "Time Run:";
+"video_on" = "Go to video";
+"video_off" = "Video not available";
+"gamerun_title" = "Run";
+"noplayername" = "Name not available";
+"notimerun" = "Time not available";
