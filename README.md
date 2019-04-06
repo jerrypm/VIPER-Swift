@@ -30,7 +30,7 @@ Example gif with iPhone XS Xcode simulator and Slow Animations:
 The architecture used to this app is [VIPER based on my own templates](https://github.com/crabinvader/VIPER-Xcode) this templates are based in a classic VIPER twisted with Clean Swift arch.
 
 <p align="center">
-  <img src="https://github.com/crabinvader/VIPER-Architecture/blob/master/viperarch.png" width="500" height="238"/>
+  <img src="https://github.com/crabinvader/VIPER-Xcode/blob/master/viperarch.png" width="500" height="238"/>
 </p>
 
 The reason that this architecture has used is because it's an advance architecture that modulates the code and respect the clean code and the best practices.
